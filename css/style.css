@@ -19,7 +19,8 @@
 	margin:auto;
 }
 .company .wrapper
-{width:80%;
+{
+	width:80%;
 	margin:auto;
 	
 }
@@ -218,53 +219,51 @@ display:flex;
 {
 	background-color:yellow;
 	height:100px;
-	width:550px;
-	margin-top:200px;
+	width:48%;
+	margin-top:50px;
 }
 .temp .temp-fc .tempb
 {
 	background-color:yellow;
 	height:100px;
-	width:550px;
-margin-top:200px;
+	width:48%;
+	margin-top:50px;
 }
 .temp .temp-fc .tempc
 {
 	background-color:yellow;
 	height:100px;
-	width:550px;
-		margin-top:10px;
+	width:48%;
+			margin-top:50px;
 }
 .temp .temp-fc .tempd
 {
 	background-color:yellow;
 	height:100px;
-	width:550px;
-		margin-top:10px;
+	width:48%;
+		margin-top:50px;
 }
 .temp .temp-fc .tempd
 {
 	background-color:yellow;
 	height:100px;
-	width:550px;
-		margin-top:10px;
+	width:48%;
+		margin-top:50px;
 }
 .temp .temp-fc .tempe
 {
 	background-color:yellow;
 	height:100px;
-	width:550px;
-		margin-top:10px;
+	width:48%;
+		margin-top:50px;
 }
 .temp .temp-fc .tempf
 {
 	background-color:yellow;
 	height:100px;
-		width:550px;
-		margin-top:10px;
+		width:48%;
+		margin-top:50px;
 }
-
-
 
 .portfolio
 {
@@ -282,73 +281,67 @@ margin-top:200px;
 {
 	background-color:lightblue;
 	height:423px;
-		width:400px;
-		margin-top:10px;
+		width:33.3%;
+		margin-top:20px;
 }
 .portfolio .portfolio-fc .porb
 {
 	background-color:lightblue;
 	height:279px;
-		width:400px;
-		margin-top:10px;
+			width:33.3%;
+		margin-top:20px;
 }
 .portfolio .portfolio-fc .porc
 {
 	background-color:lightblue;
 	height:400px;
-		width:400px;
-		margin-top:10px;
+			width:33.3%;
+		margin-top:20px;
 }
 .portfolio .portfolio-fc .pord
 
 {
 	background-color:lightblue;
 	height:400px;
-		width:400px;
-		margin-top:10px;
+			width:33.3%;
+		margin-top:20px;
 }
 .portfolio .portfolio-fc .pore
 {
 	background-color:lightblue;
 	height:275px;
-		width:400px;
-		margin-top:10px;
+			width:33.3%;
+		margin-top:20px;
 }
 .portfolio .portfolio-fc .porf
 {
 	background-color:lightblue;
 	height:278px;
-		width:400px;
-		margin-top:10px;
+			width:33.3%;
+		margin-top:20px;
 }
 .portfolio .portfolio-fc .porg
 
 {
 	background-color:lightblue;
 	height:278px;
-		width:400px;
-		margin-top:10px;
+			width:33.3%;
+		margin-top:20px;
 }
 .portfolio .portfolio-fc .porh
 {
 	background-color:lightblue;
 	height:278px;
-		width:400px;
-		margin-top:10px;
+			width:33.3%;
+		margin-top:20px;
 }
 .portfolio .portfolio-fc .pori
 {
 	background-color:lightblue;
 	height:278px;
-		width:400px;
-		margin-top:10px;
+			width:33.3%;
+		margin-top:20px;
 }
-
-
-
-
-
-
 
 .detail 
 {
