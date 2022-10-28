@@ -1,0 +1,407 @@
+.headera .wrapper
+{
+		width:80%;
+	margin:auto;
+}
+.headerb .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.logo .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.about .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.company .wrapper
+{width:80%;
+	margin:auto;
+	
+}
+.temp .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.portfolio .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.detail .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.website  .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+.headera
+{
+	background-color:navy;
+	height:31px;
+}
+.headera .headera-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.headera .headera-fc .heada
+{
+	background-color:white;
+	height:30px;
+	width:260px;
+	
+}
+.headera .headera-fc .headb
+{
+	background-color:white;
+	height:30px;
+	width:290px;
+}
+
+.headera .headera-fc .headc
+{
+	background-color:white;
+	height:30px;
+	width:260px;
+}
+
+.headerb
+{
+	background-color:beige;
+	height:83px;
+}
+.headerb .headerb-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.headerb .headerb-fc .hboxa
+{
+	background-color:navy;
+	height:39px;
+	width:120px;
+	margin-top:15px;
+	
+}
+.headerb .headerb-fc .hboxb
+{
+	background-color:red;
+	height:39px;
+	width:700px;
+	margin-top:15px;
+}
+.logo 
+{
+	background-color:rgb(107,87,68);
+	height:611px;
+}
+.logo .logo-fc
+{
+display:flex;
+	flex-direction:column;
+	align-items:center;
+}
+.logo .logo-fc .logob
+{
+	background-color:white;
+	height:211px;
+	width:680px;
+	margin-top:200px;
+}
+
+.logo .logo-fc .logobox
+{
+	background-color:white;
+	height:43px;
+	width:147px;
+	margin-top:100px;
+}
+
+.about
+{
+	background-color:lightblue;
+	height:459px;
+}
+.about .about-fc  
+{
+	display:flex;
+	flex direction:row;
+	justify-content:space-between;
+}
+.about .about-fc .abboxa 
+{
+	background-color:white;
+	height:342px;
+	width:600px;
+	margin-top:30px;
+}
+.about .about-fc .abboxb
+{
+	background-color:white;
+	height:342px;
+	width:600px;
+	margin-top:30px;
+	
+}
+.company 
+{
+	background-color:beige;
+	height:107px;
+}
+.company .company-fc 
+{
+	display:flex;
+	justify-content:space-evenly;
+	flex-direction:row;
+}
+.company .company-fc .cba
+{
+	background-color:pink;
+	height:68px;
+	width:100px;
+	margin-top:20px;
+}
+.company .company-fc .cbb
+{
+	background-color:pink;
+	height:68px;
+	width:100px;
+	margin-top:20px
+}
+.company .company-fc .cbc
+{
+	background-color:pink;
+	height:68px;
+	width:100px;
+	margin-top:20px
+}
+.company .company-fc .cbd
+{
+	background-color:pink;
+	height:68px;
+	width:100px;
+	margin-top:20px
+}
+.company .company-fc .cbe
+{
+	background-color:pink;
+	height:68px;
+	width:100px;
+	margin-top:20px
+}
+.temp 
+{
+		background-color: gray;
+	height:600px;
+}
+.temp .temp-fc
+
+{
+	display:flex;
+	justify-content:space-between;
+	flex-direction:row;
+	flex-wrap:wrap;
+
+}
+.temp .temp-fc .tempa
+
+{
+	background-color:yellow;
+	height:100px;
+	width:550px;
+	margin-top:200px;
+}
+.temp .temp-fc .tempb
+{
+	background-color:yellow;
+	height:100px;
+	width:550px;
+margin-top:200px;
+}
+.temp .temp-fc .tempc
+{
+	background-color:yellow;
+	height:100px;
+	width:550px;
+		margin-top:10px;
+}
+.temp .temp-fc .tempd
+{
+	background-color:yellow;
+	height:100px;
+	width:550px;
+		margin-top:10px;
+}
+.temp .temp-fc .tempd
+{
+	background-color:yellow;
+	height:100px;
+	width:550px;
+		margin-top:10px;
+}
+.temp .temp-fc .tempe
+{
+	background-color:yellow;
+	height:100px;
+	width:550px;
+		margin-top:10px;
+}
+.temp .temp-fc .tempf
+{
+	background-color:yellow;
+	height:100px;
+		width:550px;
+		margin-top:10px;
+}
+
+
+
+.portfolio
+{
+	background-color:beige;
+	height:1304px;
+}
+.portfolio .portfolio-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.portfolio .portfolio-fc .pora
+{
+	background-color:lightblue;
+	height:423px;
+		width:400px;
+		margin-top:10px;
+}
+.portfolio .portfolio-fc .porb
+{
+	background-color:lightblue;
+	height:279px;
+		width:400px;
+		margin-top:10px;
+}
+.portfolio .portfolio-fc .porc
+{
+	background-color:lightblue;
+	height:400px;
+		width:400px;
+		margin-top:10px;
+}
+.portfolio .portfolio-fc .pord
+
+{
+	background-color:lightblue;
+	height:400px;
+		width:400px;
+		margin-top:10px;
+}
+.portfolio .portfolio-fc .pore
+{
+	background-color:lightblue;
+	height:275px;
+		width:400px;
+		margin-top:10px;
+}
+.portfolio .portfolio-fc .porf
+{
+	background-color:lightblue;
+	height:278px;
+		width:400px;
+		margin-top:10px;
+}
+.portfolio .portfolio-fc .porg
+
+{
+	background-color:lightblue;
+	height:278px;
+		width:400px;
+		margin-top:10px;
+}
+.portfolio .portfolio-fc .porh
+{
+	background-color:lightblue;
+	height:278px;
+		width:400px;
+		margin-top:10px;
+}
+.portfolio .portfolio-fc .pori
+{
+	background-color:lightblue;
+	height:278px;
+		width:400px;
+		margin-top:10px;
+}
+
+
+
+
+
+
+
+.detail 
+{
+	background-color: rgb(81,93,106) ;
+	height:343px;
+}
+.detail .detail-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.detail .detail-fc .deta
+{
+		background-color:yellow;
+	height:241px;
+		width:251px;
+		margin-top:20px;
+}
+.detail .detail-fc .detb
+{
+	background-color:yellow;
+	height:241px;
+		width:251px;
+		margin-top:20px;
+}
+.detail .detail-fc .detc
+{
+	background-color:yellow;
+	height:241px;
+		width:251px;
+		margin-top:20px;
+}
+.detail .detail-fc .detd
+{
+	background-color:yellow;
+	height:241px;
+		width:251px;
+		margin-top:20px;
+}
+.website
+{
+	background-color :black;
+	height:60px;
+}
+.website .website-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+}
+.website .website-fc .copyright
+{
+	background-color:white;
+	width:206px;
+	height:35px;
+	margin-top:20px;
+}
